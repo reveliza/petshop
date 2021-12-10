@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/petshop/static/css/main.5fee19d1.chunk.css",
+    "main.js": "/petshop/static/js/main.09ad0880.chunk.js",
+    "main.js.map": "/petshop/static/js/main.09ad0880.chunk.js.map",
+    "runtime-main.js": "/petshop/static/js/runtime-main.371ddbe4.js",
+    "runtime-main.js.map": "/petshop/static/js/runtime-main.371ddbe4.js.map",
+    "static/js/2.0a61d89d.chunk.js": "/petshop/static/js/2.0a61d89d.chunk.js",
+    "static/js/2.0a61d89d.chunk.js.map": "/petshop/static/js/2.0a61d89d.chunk.js.map",
+    "static/js/3.290e3770.chunk.js": "/petshop/static/js/3.290e3770.chunk.js",
+    "static/js/3.290e3770.chunk.js.map": "/petshop/static/js/3.290e3770.chunk.js.map",
+    "index.html": "/petshop/index.html",
+    "static/css/main.5fee19d1.chunk.css.map": "/petshop/static/css/main.5fee19d1.chunk.css.map",
+    "static/js/2.0a61d89d.chunk.js.LICENSE.txt": "/petshop/static/js/2.0a61d89d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.371ddbe4.js",
+    "static/js/2.0a61d89d.chunk.js",
+    "static/css/main.5fee19d1.chunk.css",
+    "static/js/main.09ad0880.chunk.js"
+  ]
+}
